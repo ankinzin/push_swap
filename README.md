@@ -1,6 +1,6 @@
 # push_swap
 
-<h1>Certainly! Here's a summary of the knowledge gained in this push_swap project:</h>
+Certainly! Here's a summary of the knowledge gained in this push_swap project:
 
 1. **Push Swap Algorithm**: You've learned about the push swap algorithm, which aims to sort a stack of integers using a limited set of operations: swapping elements, pushing elements between stacks, and rotating elements within a stack.
 
